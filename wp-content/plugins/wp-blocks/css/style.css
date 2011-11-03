@@ -1,0 +1,15 @@
+
+    /* Basic add/edit page CSS styles */    
+    
+    
+    /* Index page */
+    p.version { margin-left: 10px; margin-bottom: 40px; font-style: italic; color: #999; }
+    
+    /* Add/Edit form overides */
+    form#add_edit {}
+    form div.formwrap { margin-bottom: 20px; }    
+    form#add_edit div.formwrap.block label { display: block; width: 500px; }
+    form#add_edit div.formwrap.block textarea { display: block; }
+    form#add_edit label { display: inline-block; width: 140px; margin-top: 0; margin-left: 8px; margin-right: 5px; text-align: left; }
+    form#add_edit select#active { width: 80px; }
+    a.blocks-list { display: block; margin: 20px 0 20px 8px; }

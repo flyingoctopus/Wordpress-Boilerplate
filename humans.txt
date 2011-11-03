@@ -1,0 +1,28 @@
+/* TEAM */
+	Chef:Vincent van Haaff
+	Contact: vincent [at] vanhaaff.com
+	Twitter: @vincentpants
+	From:Los Angeles, California, Uhmerica
+
+	UI developer: Emily Smith
+	Twitter: @emilysmith2000
+	From:Windsor, Ontario, Canada
+
+	UI developer: Vincent van Haaff
+	Twitter: @vincentpants
+	From:Los Angeles, California, Uhmerica
+
+	Web designer: Vincent van Haaff
+	Contact: vincent [at] vanhaaff.com
+	Twitter: @vincentpants
+	From:Los Angeles, California, Uhmerica
+
+/* THANKS */
+  Mother fucking science bitches.
+	Wynowna Ryder, for keeping me from eating people since 1986.	
+
+/* SITE */
+	Last update:2011/08/12
+	Language:English / American
+	Doctype:HTML5
+	IDE:Vim
